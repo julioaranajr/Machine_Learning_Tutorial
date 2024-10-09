@@ -1,4 +1,6 @@
-# Machine_Learning_Tutorial
+![ML Tutorial](https://socialify.git.ci/julioaranajr/Machine_Learning_Tutorial/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
+
+# Machine Learning Tutorial
 
 The first step if We're new to machine learning. We'll need to install Python and download a few libraries.
 
@@ -51,4 +53,14 @@ melbourne_data.describe()
 
 ## Next Steps
 
-Follow the steps in the [notebook](ml_tutorial.ipynb)
+1. Follow the tutorial in the [Notebook-Step-by-Step](ml_tutorial.ipynb)
+2. Learn by doing in the [Model-Bulding-Exercise](model_exercise.ipynb)
+3. Happy Coding!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
