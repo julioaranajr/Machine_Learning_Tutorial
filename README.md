@@ -54,7 +54,7 @@ melbourne_data.describe()
 ## Next Steps
 
 1. Follow the tutorial in the [Notebook-Step-by-Step](ml_tutorial.ipynb)
-2. Learn by doing in the [Model-Bulding-Exercise](model_exercise.ipynb)
+2. Learn by doing in the [Model-Building-Exercise](model_exercise.ipynb)
 3. Happy Coding!
 
 ## License
